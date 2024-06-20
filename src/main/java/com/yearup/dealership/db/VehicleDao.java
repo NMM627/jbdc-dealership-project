@@ -15,40 +15,52 @@ public class VehicleDao {
     }
 
     public void addVehicle(Vehicle vehicle) {
-        // TODO: Implement the logic to add a vehicle
+        class addVehicle {
+        }
     }
 
     public void removeVehicle(String VIN) {
-        // TODO: Implement the logic to remove a vehicle
+        boolean removeVehicle;
     }
 
     public List<Vehicle> searchByPriceRange(double minPrice, double maxPrice) {
-        // TODO: Implement the logic to search vehicles by price range
+       class searchByPriceRange{
+       }
         return new ArrayList<>();
     }
 
     public List<Vehicle> searchByMakeModel(String make, String model) {
-        // TODO: Implement the logic to search vehicles by make and model
+        class searchByMakeModel{
+
+        }
         return new ArrayList<>();
     }
 
     public List<Vehicle> searchByYearRange(int minYear, int maxYear) {
-        // TODO: Implement the logic to search vehicles by year range
+      class searchByYearRange{
+
+      }
         return new ArrayList<>();
     }
 
     public List<Vehicle> searchByColor(String color) {
-        // TODO: Implement the logic to search vehicles by color
+      class searchByColor{
+
+      }
         return new ArrayList<>();
     }
 
     public List<Vehicle> searchByMileageRange(int minMileage, int maxMileage) {
-        // TODO: Implement the logic to search vehicles by mileage range
+     class searchByMileageRange{
+
+     }
         return new ArrayList<>();
     }
 
     public List<Vehicle> searchByType(String type) {
-        // TODO: Implement the logic to search vehicles by type
+      class searchByType{
+
+      }
         return new ArrayList<>();
     }
 

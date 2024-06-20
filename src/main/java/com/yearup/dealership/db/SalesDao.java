@@ -15,6 +15,8 @@ public class SalesDao {
     }
 
     public void addSalesContract(SalesContract salesContract) {
-        // TODO: Implement the logic to add a sales contract
+    class addSalesContract{
+
+    }
     }
 }
